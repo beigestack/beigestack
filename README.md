@@ -13,3 +13,12 @@ I'm Manik! This is my github! Seems you've stumbled here, either by accident or 
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I use VSCodium, Sublime Text and believe it or not, Notepad! (rarely though lol)
+
+Also I code using Arduino C++, Python, JS, CSS and HTML (mainly) rn!
+PHP Coming soon!
+
+I have a few websites:
+
+maniksharma2.website3.me
+letsplayatlas.w3spaces.com
+and more! (I forgor their names lol)
