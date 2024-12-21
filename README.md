@@ -2,9 +2,9 @@ Hi there 👋
 
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
 
-- 🔭 I am currently working on Python stuff (Simpl TextEditor rn)
+- 🔭 I am currently working on Python stuff with Pygame rn
 
-- 🌱 I am currently learning PHP
+- 🌱 I am currently learning Godot and C/C++
 
 - 💬 Ask me about anything! Related to my repos or not! I'm happy to have a simple chat! Family friendly, though!
 
