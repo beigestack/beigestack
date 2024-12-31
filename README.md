@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-
+<font face="Cascadia Code">
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
 Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
@@ -27,3 +27,4 @@ https://youtube.com/@reiskaek/
 Maybe my twitter? (I will NEVER stop calling it that)
 
 https://x.com/reiskaek/
+</font>
