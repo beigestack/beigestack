@@ -1,8 +1,9 @@
 Hi there 👋
 
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
+Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
-- 🔭 I am currently working on Python stuff with Pygame rn
+- 🔭 I am currently working on Python stuff with Pygame rn and my website and Godot and Arduino stuff (lol)
 
 - 🌱 I am currently learning Godot and C/C++
 
@@ -15,12 +16,14 @@ I'm Manik! This is my github! Seems you've stumbled here, either by accident or 
 - ⚡ Fun fact: I use VSCodium, Sublime Text and believe it or not, Notepad! (rarely though lol)
 
 
-I have a few websites:
+Go visit my website! 
 
-maniksharma2.website3.me 
+https://maniksharma69420.github.io/
 
-&
+And my channel? (pls and maybe drop a sub?)
 
-letsplayatlas.w3spaces.com
+https://youtube.com/@reiskaek/
 
-and more! (I forgor their names lol)
+Maybe my twitter? (I will NEVER stop calling it that)
+
+https://x.com/reiskaek
