@@ -13,7 +13,7 @@ Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I use VSCode, Visual Studio, Arduino IDE, Node.js, Godot, Sublime Text and believe it or not, Notepad! (rarely though lol)
+- ⚡ Fun fact: I use VSCode, Visual Studio, Arduino IDE, Node.js, Godot, Sublime Text and believe it or not, Notepad! (rarely though lol) I also ADORE the font Cascadia Code by Microsoft (you probably guessed that if you visited my website or used my SimplTextEditor lol)
 
 
 Go visit my website! 
