@@ -1,4 +1,4 @@
-Hi there 👋
+#Hi there 👋
 
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
 Either way, if you enjoy waht you see, give it a download and maybe me a follow?
