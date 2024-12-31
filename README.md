@@ -13,7 +13,7 @@ Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I use VSCodium, Sublime Text and believe it or not, Notepad! (rarely though lol)
+- ⚡ Fun fact: I use VSCode, Visual Studio, Arduino IDE, Node.js, Godot, Sublime Text and believe it or not, Notepad! (rarely though lol)
 
 
 Go visit my website! 
@@ -26,4 +26,4 @@ https://youtube.com/@reiskaek/
 
 Maybe my twitter? (I will NEVER stop calling it that)
 
-https://x.com/reiskaek
+https://x.com/reiskaek/
