@@ -1,3 +1,4 @@
+<center>
 <h1>Hi there 👋</h1>
 <font face="Cascadia Code">
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
@@ -32,3 +33,4 @@ https://x.com/reiskaek/
 
 [![ManikSharma69420's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikSharma69420)](https://github.com/anuraghazra/github-readme-stats)
 </font>
+</center>
