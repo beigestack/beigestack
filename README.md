@@ -28,5 +28,7 @@ Maybe my twitter? (I will NEVER stop calling it that)
 
 https://x.com/reiskaek/
 
+<br>
+
 [![ManikSharma69420's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikSharma69420)](https://github.com/anuraghazra/github-readme-stats)
 </font>
