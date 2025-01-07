@@ -10,7 +10,7 @@ Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
 - 💬 Ask me about anything! Related to my repos or not! I'm happy to have a simple chat! Family friendly, though!
 
-- 📫 How to reach me: Contact me on this email : manik.manu@hotmail.com (yes i know its cringe) and ask me anything!
+- 📫 How to reach me: Contact me on <a href="mailto:manik.manu@hotmail.com">this email</a></p> and ask me anything!
 
 - 😄 Pronouns: he/him
 
