@@ -19,7 +19,7 @@ Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
 Go visit my website! 
 
-https://maniksharma69420.github.io/
+https://maniksharma.xyz/
 
 And my channel? (pls and maybe drop a sub?)
 
