@@ -29,7 +29,7 @@ Maybe my twitter? (I will NEVER stop calling it that)
 
 https://x.com/reiskaek_msh/
 
-I also have ig (mistake:
+I also have ig (mistake):
 
 https://www.instagram.com/reiskaek_msh/
 
