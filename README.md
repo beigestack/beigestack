@@ -4,7 +4,7 @@
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
 Either way, if you enjoy waht you see, give it a download and maybe me a follow?
 
-- 🔭 I am currently working on <a href="https://github.com/ManikSharma69420/PyGameChessPuzzles">PyGameChessPuzzles</a> rn and <a href="https://maniksharma69420.github.io/">my website</a> and Godot and Arduino stuff (lol)
+- 🔭 I am currently working on <a href="https://github.com/reiskaek-msh/PyGameChessPuzzles">PyGameChessPuzzles</a> rn and <a href="https://maniksharma.xyz">my website</a> and Godot and Arduino stuff (lol)
 
 - 🌱 I am currently learning <a href="https://godotengine.org/">Godot</a>, C/C++ and <a href="https://pygame.org">pygame</a> and random stuff tbh
 
@@ -23,11 +23,15 @@ https://maniksharma.xyz/
 
 And my channel? (pls and maybe drop a sub?)
 
-https://youtube.com/@reiskaek/
+https://youtube.com/@reiskaek-msh/
 
 Maybe my twitter? (I will NEVER stop calling it that)
 
-https://x.com/multiversalmsh/
+https://x.com/reiskaek_msh/
+
+I also have ig (mistake:
+
+https://www.instagram.com/reiskaek_msh/
 
 <br>
 
