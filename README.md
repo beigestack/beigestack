@@ -23,7 +23,7 @@ https://maniksharma.xyz/
 
 And my channel? (pls and maybe drop a sub?)
 
-https://youtube.com/@reiskaek-msh/
+https://youtube.com/@p4r4m0x/
 
 Maybe my twitter? (I will NEVER stop calling it that)
 
@@ -31,10 +31,8 @@ https://x.com/reiskaek_msh/
 
 I also have ig (mistake):
 
-https://www.instagram.com/reiskaek_msh/
+https://www.instagram.com/p4r4m0x/
 
 <br>
-
-[![reiskaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiskaek)](https://github.com/anuraghazra/github-readme-stats)
 </font>
 </center>
