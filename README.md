@@ -2,7 +2,7 @@
 <h1>Hi there 👋</h1>
 <font face="Cascadia Code">
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
-Either way, if you enjoy waht you see, give it a download and maybe me a follow?
+Either way, if you enjoy what you see, give it a download and maybe me a follow?
 
 - 🔭 I am currently working on <a href="https://github.com/reiskaek-msh/PyGameChessPuzzles">PyGameChessPuzzles</a> rn and <a href="https://maniksharma.xyz">my website</a> and Godot and Arduino stuff (lol)
 
