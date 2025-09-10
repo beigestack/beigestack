@@ -33,7 +33,7 @@ I also have ig (mistake):
 
 https://www.instagram.com/beigestack/
 
-USES BORING STATS NOBODY CARES ABOUT:
+USELESS BORING STATS NOBODY CARES ABOUT:
 
 ## 📊 GitHub Stats
 ![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=beigestack&show_icons=true&theme=tokyonight)
