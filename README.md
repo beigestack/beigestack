@@ -36,11 +36,11 @@ https://www.instagram.com/beigestack/
 USELESS BORING STATS NOBODY CARES ABOUT:
 
 ## 📊 GitHub Stats
-![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=beigestack&show_icons=true&theme=tokyonight)
+![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=beigestack&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beigestack&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beigestack&layout=compact&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=beigestack&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=beigestack&theme=gruvbox)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=beigestack&color=blueviolet)
 
