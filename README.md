@@ -23,7 +23,7 @@ https://maniksharma.xyz/
 
 And my channel? (pls and maybe drop a sub?)
 
-https://youtube.com/@p4r4m0x/
+https://youtube.com/@beigestack/
 
 Maybe my twitter? (I will NEVER stop calling it that)
 
@@ -31,7 +31,7 @@ https://x.com/reiskaek_msh/
 
 I also have ig (mistake):
 
-https://www.instagram.com/p4r4m0x/
+https://www.instagram.com/beigestack/
 
 <br>
 </font>
