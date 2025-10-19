@@ -10,12 +10,7 @@ Either way, if you enjoy what you see, give it a download and maybe me a follow?
 
 - 💬 Ask me about anything! Related to my repos or not! I'm happy to have a simple chat! Family friendly, though!
 
-- 📫 How to reach me: Contact me on <a href="mailto:hello@maniksharma.xyz">this email</a> and ask me anything!
-
-- 😄 Pronouns: he/him
-
-- ⚡ Fun fact: I use VSCode, Visual Studio, Arduino IDE, Node.js, Godot, Sublime Text and believe it or not, Notepad! (rarely though lol) I also ADORE the font Cascadia Code by Microsoft and System UI by Apple (you probably guessed that if you visited my website or used my SimplTextEditor lol)
-
+- 📫 How to reach me: Contact me on <a href="mailto:m4.sh@tuta.io">this email</a> and ask me anything!
 
 Go visit my website! 
 
