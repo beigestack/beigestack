@@ -1,6 +1,4 @@
-<center>
-<h1>Hi there 👋</h1>
-<font face="Cascadia Code">
+Hi there
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
 Either way, if you enjoy what you see, give it a download and maybe me a follow?
 
@@ -38,8 +36,3 @@ USELESS BORING STATS NOBODY CARES ABOUT:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=beigestack&theme=gruvbox)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=beigestack&color=blueviolet)
-
-
-<br>
-</font>
-</center>
