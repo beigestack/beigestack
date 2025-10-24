@@ -1,4 +1,5 @@
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2ECCE&width=435&lines=Use+Linux+its+BETTER)](https://git.io/typing-svg)</h1>
+<h1>Greetings!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2ECCE&width=435&lines=Use+Linux+its+BETTER)](https://git.io/typing-svg)
 I'm Manik! This is my github! Seems you've stumbled here, either by accident or on purpose.
 Either way, if you enjoy what you see, give it a download and maybe me a follow?
 
